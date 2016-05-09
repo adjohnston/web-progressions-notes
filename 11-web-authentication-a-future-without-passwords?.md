@@ -18,9 +18,9 @@ Passwords are kinda crud
 ### Some ways to help
 We tried…
 
--one time passcodes
--password aggregators
--2 factor auth (sms hacking)
+- one time passcodes
+- password aggregators
+- 2 factor auth (sms hacking)
 
 ---
 
