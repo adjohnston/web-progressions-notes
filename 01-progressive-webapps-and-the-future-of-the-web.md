@@ -21,6 +21,8 @@ HTML5 there's an API for that
 Consumers want UX
 UX is a feature too
 
+---
+
 ### Progressive Web Apps
 - "install" to the home screen
 - have their own icon (defined by the web developer)
