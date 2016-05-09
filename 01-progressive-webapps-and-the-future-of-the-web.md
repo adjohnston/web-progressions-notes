@@ -1,5 +1,5 @@
 # Progressive Webapps and the Future of the Web
-## Bruce Lawson
+## Bruce Lawson - Opera
 
 Make the web better for… 
  - developers
