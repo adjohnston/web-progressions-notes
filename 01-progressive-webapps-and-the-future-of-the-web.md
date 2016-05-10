@@ -18,8 +18,7 @@ HTML5 there's an API for that
 
 2014 - 14% spent on web vs apps mobile
 
-Consumers want UX
-UX is a feature too
+Consumers want UX. UX is a feature too.
 
 ---
 
@@ -45,7 +44,9 @@ A manifest file (json) lives in the <head />
 - etc
 
 Manifest Validator - http://manifest-validator.appspot.com
+
 Works best with HTTPS
+
 Chrome/Opera suggest adding to homescreen with manifest
 
 ---
